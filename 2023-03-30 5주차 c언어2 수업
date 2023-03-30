@@ -1,0 +1,16 @@
+#2023-03-30 5주차 c언어 수업
+
+Switch (op)
+{
+case'+'
+  result = x + y;
+    break;
+case'-'
+  result = x - y;
+    break;
+case'*'
+  result = x * y;
+    break;
+case'/'
+  result = x / y;
+    break;    
